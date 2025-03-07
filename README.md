@@ -1,4 +1,4 @@
-# Stanford Algorithms Programming Assignments #
+# Stanford Algorithms: Programming Assignments #
 
 ## Divide and Conquer, Sorting and Searching, and Randomized Algorithms ##
 Karatsuba Multiplication\
