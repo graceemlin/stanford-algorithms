@@ -40,9 +40,7 @@ int main(int argc, char** argv) {
           heap.push({weight, dest, neighbor});
         }
       }
-    } else {
-      continue;
-    }
+    } 
   }
 
   std::cout << sum << std::endl;
